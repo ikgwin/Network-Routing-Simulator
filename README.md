@@ -25,8 +25,6 @@ Neighbor tables, LSDB, and routing tables will be displayed for each affected ro
 Example
 Assume input_data.txt contains:
 
-css
-Copy code
 LINKSTATE
 A
 B
